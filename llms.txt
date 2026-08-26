@@ -1,0 +1,39 @@
+# RythmicAI
+
+> Boutique AI studio specializing in 3D animated websites and agentic AI automations for founders, agencies, and growth teams.
+
+## About
+- Founded by Daniyal Shah, a creative technologist specializing in WebGL, Three.js, and agentic AI systems.
+- RythmicAI sits at the intersection of creative web development and applied AI — delivering work that looks premium and performs even better.
+
+## Services
+- [3D Animated Websites](https://rythmicai.com/#services): Scroll-triggered animations, interactive 3D environments, and WebGL-powered web experiences for brands that refuse to blend in.
+- [Agentic AI Automations](https://rythmicai.com/#services): Custom AI agents for intelligent lead follow-up, multi-step workflow automations, and backend AI infrastructure that operates autonomously.
+
+## Blog
+- [What Is a 3D Animated Website?](https://rythmicai.com/blog/3d-websites.html): Technologies (WebGL, Three.js, GSAP, Spline), benefits, ROI data, and cost breakdown for 3D web experiences.
+- [How Agentic AI Automations Transform Business](https://rythmicai.com/blog/agentic-ai.html): What agentic AI is, how it differs from RPA/chatbots, frameworks (LangChain, CrewAI, Claude API), use cases, and implementation costs.
+- [WebGL Performance Optimization Guide](https://rythmicai.com/blog/webgl-performance.html): Draw call reduction, instanced rendering, texture compression, LOD, shader optimization, and mobile performance strategies.
+
+## Target Clients
+- Founders, agencies, growth teams, DTC brands, SaaS companies, and creative studios.
+
+## Process
+1. Discovery — Understanding business goals, audience, and friction points.
+2. Design & Architecture — Mapping visual and functional experience.
+3. Build & Deploy — Clean code, smooth animations, bulletproof automations.
+4. Optimize — Refining based on real performance data.
+
+## FAQ
+- What is a 3D animated website? A website using WebGL, Three.js, and scroll-triggered animations to create immersive, interactive digital experiences with real-time 3D rendering.
+- What are agentic AI automations? Autonomous AI systems that plan, reason, use tools, and execute multi-step workflows without requiring human intervention for each step.
+- Who does RythmicAI work with? Founders, agencies, growth teams, DTC brands, SaaS companies, and creative studios.
+- How long does a project take? 3D websites: 4-8 weeks. AI automations: 1-8 weeks depending on complexity.
+
+## Contact
+- [Book a Call](https://calendly.com/daniyalshahofficial/30min): Free 30-minute discovery consultation with the founder.
+- Email: daniyal@rythmicai.com
+
+## Links
+- Website: https://rythmicai.com
+- LinkedIn (Founder): https://www.linkedin.com/in/daniyalshahofficial
